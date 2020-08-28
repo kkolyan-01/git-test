@@ -1,5 +1,5 @@
 "use strict";
 
-let userName = "Николай";
+let userName = "Коля";
 
 alert(`Привет ${userName}!`);
